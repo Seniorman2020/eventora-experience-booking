@@ -19,6 +19,20 @@ It is designed around elegant event presentation, refined reservations, guest-fa
 - CSS
 - Vanilla JavaScript
 
+## Screenshots
+
+### Overview
+
+![Eventora overview](assets/screenshots/overview.png)
+
+### Discovery
+
+![Eventora discovery](assets/screenshots/discover.png)
+
+### Organizer
+
+![Eventora organizer](assets/screenshots/organizer.png)
+
 ## Structure
 
 - `index.php`
